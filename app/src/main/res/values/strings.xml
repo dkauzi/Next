@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Score Count</string>
+
+    <string name="team_name">team A</string>
+    <string name="team_score">0</string>
+    <string name="team_B">team B</string>
+    <string name="team_score_b">0</string>
+    <string name="action_settings">Settings</string>
+</resources>
